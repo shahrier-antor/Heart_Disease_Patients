@@ -7,4 +7,4 @@
   6. Splitting the dataset into 80% training and 20% for testing. Adding random state and stratification
   7. Performing the training with Decision Tree Classifier 
   8. Showing a tree diagram of the Decision Tree 
-  9. Showing the Confusion Matrix, Classification report, and ROC-AUC.
+  9. Showing the Confusion Matrix, Classification report, and ROC-AUC
